@@ -1,4 +1,4 @@
-# VB6-Sqlite3
+# Sqlite3-VB6
 Visual Basic 6 with SQLite3 database.. original coded by ApoNie http://GeeKzLife.Net
 
 More info:
